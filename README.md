@@ -26,10 +26,6 @@ sudo bower install
 
 Then you can access the webpage with the Raspberry PI IP Adress or domain name.
 
-Interface preview
-
-<img src="http://s9.postimg.org/ivnsek3hb/Untitled.png"></img>
-
 Usage preview
 
 <img src="https://dl.dropboxusercontent.com/s/7s37ps1kb0dfig7/pifmstation.gif"></img>
