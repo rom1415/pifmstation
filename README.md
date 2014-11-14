@@ -15,13 +15,17 @@ Installation :
 First install npm modules with 
 
 ```javascript
-npm install
+sudo npm install
 ```
 
 then install bower components with
 
 ```javascript
-bower install
+sudo bower install
 ```
 
 Then you can access the webpage with the Raspberry PI IP Adress or domain name.
+
+Interface preview
+
+<img src="http://s9.postimg.org/ivnsek3hb/Untitled.png"></img>
