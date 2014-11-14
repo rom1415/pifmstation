@@ -8,7 +8,7 @@ You can turn on/off radio on the frequency you want then pause/resume/stop or go
 
 Requirements :
 
-You need an apache web server with PHP to run the web application.
+You need an apache web server (or nginx) with PHP to run the web application.
 
 Installation :
 
