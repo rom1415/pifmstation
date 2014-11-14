@@ -1,2 +1,4 @@
 .idea
 pifmplay/music/*
+bower_components
+node_modules
