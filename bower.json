@@ -1,0 +1,36 @@
+{
+  "name": "PiFM Music Station",
+  "version": "0.0.0",
+  "authors": [
+    "Romain LAPIERRE <lapierre.romain@gmail.com>"
+  ],
+  "description": "PiFM Music Station Web Application",
+  "main": "index.php",
+  "keywords": [
+    "pi",
+    "fm",
+    "gui",
+    "radio",
+    "fm"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.pifm-music-station.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "jquery": "~2.1.1",
+    "bootstrap-switch": "~3.2.1",
+    "font-awesome": "~4.2.0",
+    "noty": "~2.2.10",
+    "jquery-knob": "~1.2.11"
+  },
+  "devDependencies": {
+    "bootstrap-switch": "~3.2.1"
+  }
+}
