@@ -57,6 +57,7 @@ $songs = scandir($musicfolder);
         <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
         <link rel="stylesheet" href="bower_components/bootstrap-switch/dist/css/bootstrap3/bootstrap-switch.css" />
         <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css" />
+        <link rel="icon" type="image/ico" href="favicon.ico" />
         <!-- endbower -->
     </head>
         <body>
