@@ -16,16 +16,21 @@ Installation :
 First install npm modules with 
 
 ```javascript
-sudo npm install
+npm install
 ```
 
 then install bower components with
 
 ```javascript
-sudo bower install
+bower install
+```
+Finaly, run grunt defaut task to perform a wiredep simple task
+
+```javascript
+grunt
 ```
 
-Then you can access the webpage with the Raspberry PI IP Adress or domain name.
+It's ready! You can now have access to the webpage with the Raspberry PI IP Adress or domain name.
 
 Usage preview
 
