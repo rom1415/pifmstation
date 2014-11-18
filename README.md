@@ -9,23 +9,29 @@ You can turn on/off radio on the frequency you want then pause/resume/stop or go
 Requirements :
 
 You need an apache web server (or nginx) with PHP to run the web application.
-Create a "music" folder into pifmplay folder and put all your songs in it (mp3 files only)
+Put all your songs (mp3 files only) into the "music" folder located in the "pifmplay" folder.
 
 Installation :
 
 First install npm modules with 
 
 ```javascript
-sudo npm install
+npm install
 ```
 
 then install bower components with
 
 ```javascript
-sudo bower install
+bower install
 ```
 
-Then you can access the webpage with the Raspberry PI IP Adress or domain name.
+Finaly, run grunt defaut task to perform a wiredep simple task
+
+```javascript
+grunt
+```
+
+It's ready! You can now have access to the webpage with the Raspberry PI IP Adress or domain name.
 
 Usage preview
 
