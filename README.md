@@ -9,7 +9,7 @@ You can turn on/off radio on the frequency you want then pause/resume/stop or go
 Requirements :
 
 You need an apache web server (or nginx) with PHP to run the web application.
-Create a "music" folder into pifmplay folder and put all your songs in it.
+Create a "music" folder into pifmplay folder and put all your songs in it (mp3 files only)
 
 Installation :
 
