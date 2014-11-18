@@ -104,7 +104,7 @@ $songs = scandir($musicfolder);
                                     foreach($songs as $song)
                                     {
                                         echo "<tr>";
-                                        if($song != '.' && $song != '..') {
+                                        if($song != '.' && $song != '..' && $song != '.gitignore') {
                                             echo '<td class="song"><a >' . $song . '</a></td>';
                                         }
                                         echo '</tr>';
