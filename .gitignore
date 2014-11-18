@@ -1,4 +1,4 @@
 .idea
-pifmplay/music/*
+pifmplay/music/*.mp3
 bower_components
 node_modules
