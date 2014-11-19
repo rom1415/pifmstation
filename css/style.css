@@ -1,0 +1,52 @@
+.bootstrap-switch-container{
+    height: 35px;
+}
+
+html{
+    height: 90%;
+    font-family: 'Droid Sans', sans-serif !important;
+}
+
+body {
+    text-align: center;
+    min-height: 90%;
+    font-family: 'Droid Sans', sans-serif !important;
+}
+
+#frequency{
+    width: 250px;
+    text-align: center;
+    font-family: Calibri;
+    font-size: 22px;
+}
+
+.col-centered{
+    margin: 0 auto;
+    float: none;
+}
+
+.player {
+    font-size: 4em;
+}
+
+td a {
+    font-size: 1.5em;
+}
+
+.noty_text{
+    font-size: 2em;
+}
+
+.highlight
+{
+    background-color:rgb(222, 236, 242);;
+}
+
+.mhz{
+    margin-top: -99px;
+    color: rgb(159, 159, 159);
+    font-size: 67px;
+    text-shadow: 4px 4px #EAEAEA;
+}
+
+
