@@ -36,3 +36,5 @@ It's ready! You can now have access to the webpage with the Raspberry PI IP Adre
 Usage preview
 
 <img src="https://dl.dropboxusercontent.com/s/i24mudnw8czmloz/pifmstation_v2.gif"></img>
+
+<img src="https://dl.dropboxusercontent.com/s/hcu43ozd4xrqnww/pifmstation_v3.gif"></img>
