@@ -34,4 +34,7 @@ grunt
 It's ready! You can now have access to the webpage with the Raspberry PI IP Adress or domain name.
 
 Usage preview
-<img src="https://dl.dropboxusercontent.com/s/hcu43ozd4xrqnww/pifmstation_v3.gif"></img>
+
+
+
+<img src="https://dl.dropboxusercontent.com/s/7s37ps1kb0dfig7/pifmstation.gif"></img>
